@@ -1,0 +1,8 @@
+{
+  "strport": 3232,
+  "url": "101.32.31.220:7001",
+  "tls": false,
+  "debug": false,
+  "testnet": false,
+  "socks5": ""
+}

@@ -1,0 +1,8 @@
+{
+  "strport": 3232,
+  "url": "equal.xdag.org:13656",
+  "tls": false,
+  "debug": false,
+  "testnet": false,
+  "socks5": ""
+}
